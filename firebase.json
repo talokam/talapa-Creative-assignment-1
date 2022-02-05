@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site":"legendsai",
     "public": "public",
     "ignore": [
       "firebase.json",
